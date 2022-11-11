@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: formSubscriptionService
+netty:
+  default:
+    allocator:
+      max-order: 3
